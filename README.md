@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @padmaathreya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS, Python, Rust
 - 💞️ I’m looking to collaborate on any coding related project
 - 📫 How to reach me padmaathreya@gmail.com
 
